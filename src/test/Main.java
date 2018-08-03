@@ -6,6 +6,8 @@ public class Main {
 		// TODO Auto-generated method stub
 		System.out.println("test1");
 		System.out.println("mod1");
+		System.out.println("mod2");
+		System.out.println("mod3");
 
 	}
 
